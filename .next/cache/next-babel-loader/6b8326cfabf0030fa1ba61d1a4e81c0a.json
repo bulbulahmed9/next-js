@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Homepage from '';\nexport default Homepage;","map":{"version":3,"sources":["C:/Users/Bulbul Ahmed/Desktop/next-app/src/pages/index.js"],"names":["Homepage"],"mappings":"AAAA,OAAOA,QAAP,MAAqB,EAArB;AAEA,eAAeA,QAAf","sourcesContent":["import Homepage from ''\r\n\r\nexport default Homepage"]},"metadata":{},"sourceType":"module"}

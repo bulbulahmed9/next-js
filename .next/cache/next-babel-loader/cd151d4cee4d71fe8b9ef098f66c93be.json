@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Hom from '';\nexport default Homepage;","map":{"version":3,"sources":["C:/Users/Bulbul Ahmed/Desktop/next-app/src/pages/index.js"],"names":["Hom","Homepage"],"mappings":"AAAA,OAAOA,GAAP,MAAgB,EAAhB;AAEA,eAAeC,QAAf","sourcesContent":["import Hom from ''\r\n\r\nexport default Homepage"]},"metadata":{},"sourceType":"module"}
